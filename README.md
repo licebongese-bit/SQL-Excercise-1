@@ -1,2 +1,2 @@
-# Hands-On SQL Exercise 1: SQL Fundamentals
-This repository contains my submission for the first hands-on SQL exercise in the **Foundations of Data Analytics** course, focusing on core database querying techniques and essential SQL commands.
+# SQL Fundamentals: SELECT & Filtering Practice
+I created this repository as my first hands-on practice exercise to master core SQL fundamentals, focusing on basic data retrieval (SELECT) and conditional filtering (WHERE, ORDER BY, LIMIT).
